@@ -1,0 +1,22 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "material-kit",
+    "docker": "1",
+    "frontend": "",
+    "github_repo": "https://github.com/appseed-projects/2056798f-d628-4609-867c-c82edeff543c",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "2056798f-d628-4609-867c-c82edeff543c",
+    "task_info": "Upload Sources [0%] - 363 files",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-05-18-03-29-39",
+    "task_ts_start": "2022-05-18-03-29-38"
+}
